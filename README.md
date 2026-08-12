@@ -33,11 +33,7 @@ Desenvolvedora Back-End, formada em Análise e Desenvolvimento de Sistemas (ADS)
 
 ## GitHub stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacquelinetargino&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/jacquelinetargino)
+[![GitHub stats](./profile/stats.svg)](https://github.com/jacquelinetargino)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jacquelinetargino&theme=tokyonight&hide_border=true)](https://github.com/jacquelinetargino)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelinetargino&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/jacquelinetargino)
-
----
-
-Feito com 💙 por [DevCoder Systems](https://devcodersystems.tech)
+[![Top Languages](./profile/top-langs.svg)](https://github.com/jacquelinetargino)
